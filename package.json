@@ -1,0 +1,10 @@
+{
+  "name": "ycharts-challenge",
+  "version": "1.0.0",
+  "description": "ycharts challenge",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": []
+}
