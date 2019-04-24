@@ -1,7 +1,5 @@
 # ycharts-challenge
 
-# Unit Reconciliation parser
+## Unit Reconciliation parser
 
-# to run
-
-`npm start`
+## to run simply `npm start`
